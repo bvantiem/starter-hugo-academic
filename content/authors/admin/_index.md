@@ -77,5 +77,6 @@ social:
 
 I am a doctoral candidate in the Department of Criminology at the University of Pennsylvania. My research focuses on prisons, with a focus on the way in which prison policy shapes individual outcomes both during incarceration and post-release. I am also interested in the overlap between systems of crime and immigration control. Prior to starting at Penn, I managed a large scale peer support programme in prisons in the UK and Ireland. I also served as an independent monitor of immigration removal centres. I hold a BA from University College Utrecht, and an MPhil in Social Anthropology from the University of Cambridge. I am currently pursuing an MA in Statistics at Penn alongside my doctoral studies.
 
+
 {{< icon name="download" pack="fas" >}} A copy of my curriculum vitae can be viewed {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
 
