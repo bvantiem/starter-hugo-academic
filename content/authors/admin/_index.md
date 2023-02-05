@@ -31,16 +31,16 @@ interests:
 education:
   courses:
     - course: PhD in Criminology
-      institution: University of Pennsylvania, USA
+      institution: University of Pennsylvania
       year: 2024 (expected)
     - course: MA in Statistics
-      institution: University of Pennsylvania, USA
+      institution: University of Pennsylvania
       year: 2023 (expected)
     - course: MA in Social Anthropology
-      institution: University of Cambridge, UK
+      institution: University of Cambridge
       year: 2013
    -  course: BA in Anthropology and Development Studies
-      institution: University College Utrecht, NL
+      institution: University College Utrecht
       year: 2011
 
 # Social/Academic Networking
@@ -75,10 +75,10 @@ social:
    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+# email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+# highlight_name: true
 ---
 
 Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
