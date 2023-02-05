@@ -1,6 +1,6 @@
 ---
-title: "An example preprint / working paper"
-authors:
+title: "The Effects of Immigration Enforcement on Traffic Stops: Changing Driver or Police Behavior?"
+authors: Britte van Tiem
 - admin
 date: "2019-04-07T00:00:00Z"
 doi: ""
@@ -29,15 +29,15 @@ featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#  url: http://example.org
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -62,8 +62,4 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
