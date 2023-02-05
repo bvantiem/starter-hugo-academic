@@ -75,8 +75,6 @@ social:
 # highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a doctoral candidate in the Department of Criminology at the University of Pennsylvania. My research focuses on prisons, with a focus on the way in which prison policy shapes individual outcomes both during incarceration and post-release. I am also interested in the overlap between systems of crime and immigration control. Prior to starting at Penn, I managed a large scale peer support programme in prisons in the UK and Ireland. I also served as an independent monitor of immigration removal centres. I hold a BA from University College Utrecht, and an MPhil in Social Anthropology from the University of Cambridge. I am currently pursuing an MA in Statistics at Penn alongside my doctoral studies.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
