@@ -36,12 +36,6 @@ education:
     - course: MA in Statistics
       institution: University of Pennsylvania
       year: 2023 (expected)
-    - course: MA in Social Anthropology
-      institution: University of Cambridge
-      year: 2013
-   -  course: BA in Anthropology and Development Studies
-      institution: University College Utrecht
-      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
