@@ -31,16 +31,16 @@ interests:
 education:
   courses:
     - course: PhD in Criminology
-      institution: University of Pennsylvania, USA
+      institution: University of Pennsylvania
       year: 2024 (expected)
     - course: MA in Statistics
-      institution: University of Pennsylvania, USA
+      institution: University of Pennsylvania
       year: 2023 (expected)
     - course: MA in Social Anthropology
-      institution: University of Cambridge, UK
+      institution: University of Cambridge
       year: 2013
    -  course: BA in Anthropology and Development Studies
-      institution: University College Utrecht, NL
+      institution: University College Utrecht
       year: 2011
 
 # Social/Academic Networking
