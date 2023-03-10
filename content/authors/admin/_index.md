@@ -22,10 +22,11 @@ bio: Britte is a doctoral candidate in the Department of Criminology at the Univ
 
 # Interests to show in About widget
 interests:
-  - Corrections
+  - Corrections 
   - Immigration 
   - Detention Monitoring & Oversight
-  - Causal Inference and Survey Methods
+  - Causal Inference
+  - Survey Methods
 
 # Education to show in About widget
 education:
@@ -36,6 +37,12 @@ education:
     - course: MA in Statistics
       institution: University of Pennsylvania
       year: 2023 (expected)
+    - course: MPhil Social Anthropology
+      institution: University of Cambridge 
+      year: 2013
+    - course: BA in Liberal Arts & Science 
+      institution: University College Utrecht 
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -75,7 +82,7 @@ social:
 # highlight_name: true
 ---
 
-I am a doctoral candidate in the Department of Criminology at the University of Pennsylvania. My research focuses on prisons, with a focus on the way in which prison policy shapes individual outcomes both during incarceration and post-release. I am also interested in the overlap between systems of crime and immigration control. Prior to starting at Penn, I managed a large scale peer support programme in prisons in the UK and Ireland. I also served as an independent monitor of immigration removal centres. I hold a BA from University College Utrecht, and an MPhil in Social Anthropology from the University of Cambridge. I am currently pursuing an MA in Statistics at Penn alongside my doctoral studies.
+I am a doctoral candidate in the Department of Criminology at the University of Pennsylvania. My research focuses on prisons, with a focus on the way in which prison policy shapes individual outcomes both during incarceration and post-release. I am also interested in the overlap between systems of crime and immigration control. I am currently working a projects related to the quality of life in prisons, and the impact of prison-based programming on post-release employment. Prior to starting at Penn, I managed a large scale peer support program in prisons in the UK and Ireland. I also served as an independent monitor of two immigration removal centers. 
 
 {{< icon name="download" pack="fas" >}} A copy of my curriculum vitae can be viewed {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
 
