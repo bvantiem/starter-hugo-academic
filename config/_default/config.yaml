@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Britte van Tiem # Website name
-baseURL: 'https://64121908237d4807ceb283b6--brittevantiem.netlify.app/' # Website URL
+baseURL: 'https://brittevantiem.netlify.app/' # Website URL
 # https://64121908237d4807ceb283b6--brittevantiem.netlify.app/
 ############################
 ## LANGUAGE
