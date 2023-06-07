@@ -82,7 +82,7 @@ social:
 # highlight_name: true
 ---
 
-I am a doctoral candidate in the Department of Criminology at the University of Pennsylvania. My research focuses on prisons, with a focus on the way in which prison policy shapes individual outcomes both during incarceration and post-release. I am also interested in the overlap between systems of crime and immigration control. I am currently working a projects related to the quality of life in prisons, and the impact of prison-based programming on post-release employment. Prior to starting at Penn, I managed a large scale peer support program in prisons in the UK and Ireland. I also served as an independent monitor of two immigration removal centers. 
+I am a doctoral candidate in the Department of Criminology at the University of Pennsylvania. I mostly work on prisons, with a focus on the way in which prisons are run and how this affects the experience of incarceration as well as individual outcomes. I am currently working on projects related to the quality of life in prisons, and the impact of prison-based programming on post-release employment. I am also interested in the overlap between systems of crime and immigration control, and have published on the impact of a local-federal immigration partnership on police behavior. Prior to starting at Penn, I managed a large scale peer support program in prisons in the UK and Ireland. I also served as an independent monitor of two immigration removal centers. 
 
 {{< icon name="download" pack="fas" >}} A copy of my curriculum vitae can be viewed {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
 
