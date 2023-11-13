@@ -36,7 +36,7 @@ education:
       year: 2024 (expected)
     - course: MA in Statistics
       institution: University of Pennsylvania
-      year: 2023 (expected)
+      year: 2023
     - course: MPhil Social Anthropology
       institution: University of Cambridge 
       year: 2013
