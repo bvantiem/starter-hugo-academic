@@ -86,5 +86,5 @@ I mostly work on prisons, with a focus on how prison conditions and policies aff
 
 Starting in September 2024, I will be a SSRC Criminal Justice Innovation Postdoctoral Fellow. I received my Ph.D. in Criminology from the University of Pennsylvania in 2024. I am currently a member of the Scandinavian Prison Project's Research Team. I previously managed a large scale peer support program in prisons in the UK and Ireland. I also served as an independent monitor of two immigration removal centers. 
 
-{{< icon name="download" pack="fas" >}} A copy of my curriculum vitae can be viewed {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} A copy of my CV can be viewed {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref>}}.
 
