@@ -10,7 +10,7 @@ last_name: van Tiem
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate 
+role: SSRC Criminal Justice Innovation Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: https://crim.sas.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Britte is a doctoral candidate in the Department of Criminology at the University of Pennsylvania. 
+bio: Britte is an SSRC Criminal Justice Innovation Postdoctoral Fellow. 
 
 # Interests to show in About widget
 interests:
@@ -33,7 +33,7 @@ education:
   courses:
     - course: PhD in Criminology
       institution: University of Pennsylvania
-      year: 2024 (expected)
+      year: 2024 
     - course: MA in Statistics
       institution: University of Pennsylvania
       year: 2023
@@ -82,7 +82,9 @@ social:
 # highlight_name: true
 ---
 
-I am a doctoral candidate in the Department of Criminology at the University of Pennsylvania. I mostly work on prisons, with a focus on how prison conditions and policies affect in-prison and post-release outcomes. I am currently working on projects related to prison climate, and the impact of prison-based programming on post-release employment. I am also interested in the overlap between systems of crime and immigration control, and have published on the impact of a local-federal immigration enforcement partnership on police behavior. Prior to starting at Penn, I managed a large scale peer support program in prisons in the UK and Ireland. I also served as an independent monitor of two immigration removal centers. 
+I mostly work on prisons, with a focus on how prison conditions and policies affect in-prison and post-release outcomes. I am currently working on projects related to prison climate, and the impact of prison-based programming on post-release employment. I am also interested in the overlap between systems of crime and immigration control, and have published on the impact of a local-federal immigration enforcement partnership on police behavior. 
+
+Starting in September 2024, I will be a SSRC Criminal Justice Innovation Postdoctoral Fellow. I received my Ph.D. in Criminology from the University of Pennsylvania in 2024. I am currently a member of the Scandinavian Prison Project's Research Team. I previously managed a large scale peer support program in prisons in the UK and Ireland. I also served as an independent monitor of two immigration removal centers. 
 
 {{< icon name="download" pack="fas" >}} A copy of my curriculum vitae can be viewed {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
 
