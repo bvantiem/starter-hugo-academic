@@ -14,8 +14,8 @@ role: SSRC Criminal Justice Innovation Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Pennsylvania 
-    url: https://crim.sas.upenn.edu/
+  - name: SSRC 
+    url: https://www.ssrc.org/programs/arnold-ventures-criminal-justice-innovation-fellowships/fellows/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Britte is an SSRC Criminal Justice Innovation Postdoctoral Fellow. 
@@ -82,7 +82,7 @@ social:
 # highlight_name: true
 ---
 
-I mostly work on prisons, with a focus on how prison conditions and policies affect in-prison and post-release outcomes. I am currently working on projects related to prison climate, and the impact of prison-based programming on post-release employment. I am also interested in the overlap between systems of crime and immigration control, and have published on the impact of a local-federal immigration enforcement partnership on police behavior. 
+I am a Criminologist working on prisons, with a focus on how prison conditions and policies affect in-prison and post-release outcomes. I am currently working on projects related to prison climate, and the impact of prison-based programming on post-release employment. I am also interested in the overlap between systems of crime and immigration control, and have published on the impact of a local-federal immigration enforcement partnership on police behavior. 
 
 Starting in September 2024, I will be a SSRC Criminal Justice Innovation Postdoctoral Fellow. I received my Ph.D. in Criminology from the University of Pennsylvania in 2024. I am currently a member of the Scandinavian Prison Project's Research Team. I previously managed a large scale peer support program in prisons in the UK and Ireland. I also served as an independent monitor of two immigration removal centers. 
 
