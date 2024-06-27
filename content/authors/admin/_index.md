@@ -16,6 +16,8 @@ role: SSRC Criminal Justice Innovation Postdoctoral Fellow
 organizations:
   - name: SSRC
     url: https://www.ssrc.org/programs/arnold-ventures-criminal-justice-innovation-fellowships/fellows/
+  - name: Arnold Ventures Profile
+    url: https://www.arnoldventures.org/stories/we-should-study-prisons-just-like-we-study-hospitals-or-schools-we-need-to-ask-what-prisons-are-for-and-if-they-live-up-to-expectations
   - name: Scandinavian Prison Project
     url: https://www.scandinavianprisonproject.com/
 
@@ -84,7 +86,7 @@ social:
 # highlight_name: true
 ---
 
-I am a SSRC Criminal Justice Innovation Postdoctoral Fellow at the University of Maryland, where I am hosted jointly by the Department of Criminology & Criminal Justice and the School of Public Policy (SPP). My research focuses on how prison conditions and policies affect in-prison and post-release outcomes. I am currently working on projects related to prison climate, and the impact of prison-based programming on post-release employment. I am also interested in the overlap between systems of crime and immigration control, and have published on the impact of a local-federal immigration enforcement partnership on police behavior. I previously managed a large scale peer support program in prisons in the UK and Ireland. I also served as an independent monitor of two immigration removal centers. 
+I am a SSRC Criminal Justice Innovation Postdoctoral Fellow at the University of Maryland, where I am hosted jointly by the Department of Criminology & Criminal Justice and the School of Public Policy. My research focuses on how prison conditions and policies affect in-prison and post-release outcomes. I am currently working on projects related to prison climate, and the impact of prison-based programming on post-release employment. I am also interested in the overlap between systems of crime and immigration control, and have published on the impact of a local-federal immigration enforcement partnership on police behavior. I previously managed a large scale peer support program in prisons in the UK and Ireland. I also served as an independent monitor of two immigration removal centers. 
 
 {{< icon name="download" pack="fas" >}} A copy of my CV can be viewed {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref>}}.
 
